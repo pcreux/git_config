@@ -1,3 +1,8 @@
+# Personnalisez les champs ci-dessous!
+[user]
+name = Bob Martin
+email = bob@example.com
+
 # Edit commit messages in vim
 [core]
   editor = /usr/bin/vim
