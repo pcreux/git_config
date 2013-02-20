@@ -12,9 +12,6 @@ email = bob@example.com
 # Push only the current branch to the remote branch it tracks
 [push]
   default = tracking
-# Always rebase on pull
-[branch]
-  autosetuprebase = always
 
 # Aliases!
 [alias]
