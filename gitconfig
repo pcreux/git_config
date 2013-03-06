@@ -1,7 +1,7 @@
 # Personnalisez les champs ci-dessous!
 [user]
-name = Bob Martin
-email = bob@example.com
+name = Change Me
+email = change-me@example.com
 
 # Edit commit messages in vim
 [core]
